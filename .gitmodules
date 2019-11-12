@@ -1,10 +1,10 @@
 [submodule "build"]
 	path = build
-	url = https://chromium.googlesource.com/chromium/src/build
+	url = https://github.com/lbhli/build.git
 	branch = master
 [submodule "third_party/gn"]
 	path = third_party/gn
-	url = https://gn.googlesource.com/gn
+	url = https://github.com/lbhli/gn.git
 [submodule "third_party/ninja"]
 	path = third_party/ninja
 	url = https://github.com/ninja-build/ninja.git
